@@ -1,0 +1,8 @@
+openai
+Pillow
+pymongo
+PyMuPDF
+docx2txt
+python-pptx 
+pytesseract
+
